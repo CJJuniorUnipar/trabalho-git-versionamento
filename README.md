@@ -19,3 +19,8 @@ R:  Um versionamento correto  permite a melhoria  no  processo de desenvolviment
 
 
 #### 6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
+R: A CVS é a ferramentas de controle de software mais antigas desenvolvida em 1968. O único problema é sua tecnologia  antiga. Porém, ainda é bastante usada por desenvolvedores, ela é fácil de ser utilizada proporcionando agilidade no aprendizado da equipe.
+ Subversion
+O Subversion é uma ferramenta de controle de versão de software bastante utilizada. Ela é rápida para  executar as funcionalidades do sistema e ainda se mostra como uma das mais simples de ser empregada. Basta ter um conhecimento básico para utilizá-la é uma ferramenta centralizada e não é indicada para todas as equipes de desenvolvimento.
+TFS
+O TFS é uma  ferramenta de controle de versão de software que pode ser utilizada em organizações . Ele traz recursos  interessantes, principalmente se você utiliza metodologias ágeis no setor de TI da sua empresa , isso porque ele possibilita a gestão de projetos por meio de SCRUM e CMMI. Também permite a utilização de forma centralizada ou distribuída, sendo adequado tanto para equipes que compartilham o mesmo espaço físico quanto aquelas que trabalham à distância.
