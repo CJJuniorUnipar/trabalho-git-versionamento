@@ -1,5 +1,12 @@
 # Trabalho de GIT
 
+**Claudinei Januario Junior RA: 00200780**
+
+**Jackson Marques RA: 00202793**
+
+**Matheus Mattesco RA: 00201768**
+
+
 #### 1. O que é GIT?
 
 
