@@ -8,10 +8,13 @@
 
 
 #### 1. O que é GIT?
+ 
+ Git é um projeto de código aberto, serve para fazer projetos distribuídos, ele é mais conhecido como DVCS (Sistema de controle de versão distribuída), no Git, a cópia de trabalho de todo desenvolvedor do código também é um repositório que pode conter o histórico completo de todas as alterações.Além de ser distribuído, o Git foi projetado com desempenho, segurança e flexibilidade em mente.
 
 
 #### 2.  O que é versionamento de software?
 
+versionamento de software serve como uma metodologia para realizar o controle da alteração do código do software, como por exemplo uma nova versão dele, esse tipo de sistema consegue nos mostrar a diferença entre a versão antiga e a versão mais nova, mostrando o que foi mudado da versão passada para a versão mais nova, ele também permite apresentar as novidades da nova versão.
 
 #### 3. Por que utilizar o Git como controle de versionamento?
 
